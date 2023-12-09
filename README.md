@@ -5,4 +5,4 @@
 ## Ресурсы
 
 Изначальный код проекта.
-* [YandexPracticum - first-project](https://github.com/YandexPracticum/first-project)
+* [YandexPracticum - first-project](https://github.com/yandex-praktikum/ono-tebe-nado)
